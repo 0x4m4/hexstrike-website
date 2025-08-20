@@ -197,7 +197,7 @@ export default function HomePage() {
             }`}
           >
             <span className="drop-shadow-[0_0_10px_rgba(239,68,68,0.8)]">hexstrike</span>{" "}
-            <span className="text-red-400">AI</span>
+            <span className="text-red-400">AI MCPs</span>
           </h1>
 
           <div
